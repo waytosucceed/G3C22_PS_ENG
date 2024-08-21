@@ -1,0 +1,237 @@
+{
+  "heading": "Adverb Types Quiz",
+  "topics": [
+    {
+      "heading": "Types of Adverb",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "In the sentence \"The cat crept silently across the room,\" the word \"silently\" is an adverb of _____.",
+          "options": [
+            "manner",
+            "time",
+            "place"
+          ],
+          "answer": 0,
+          "explanation": "\"Silently\" describes how the cat moved."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which of the following is an adverb of place?",
+          "options": [
+            "annually",
+            "underneath",
+            "quickly"
+          ],
+          "answer": 1,
+          "explanation": "\"Underneath\" refers to a location or position."
+        },
+        {
+          "questionNo": 3,
+          "question": "She _____ practices yoga to maintain her flexibility.",
+          "options": [
+            "rarely",
+            "elegantly",
+            "downstairs"
+          ],
+          "answer": 0,
+          "explanation": "\"Rarely\" is an adverb of time indicating how often she practices yoga."
+        },
+        {
+          "questionNo": 4,
+          "question": "The children played _____ in the garden.",
+          "options": [
+            "yesterday",
+            "loudly",
+            "anywhere"
+          ],
+          "answer": 1,
+          "explanation": "\"Loudly\" is an adverb of manner describing how the children played."
+        },
+        {
+          "questionNo": 5,
+          "question": "The cat is sleeping _____ the couch.",
+          "options": [
+            "always",
+            "under",
+            "softly"
+          ],
+          "answer": 1,
+          "explanation": "\"Under\" is an adverb of place indicating the location of the cat."
+        },
+        {
+          "questionNo": 6,
+          "question": "She _____ arrives late to class.",
+          "options": [
+            "never",
+            "clumsily",
+            "here"
+          ],
+          "answer": 0,
+          "explanation": "\"Never\" is an adverb of time indicating how often she arrives late."
+        },
+        {
+          "questionNo": 7,
+          "question": "He _____ climbed the mountain.",
+          "options": [
+            "bravely",
+            "daily",
+            "outside"
+          ],
+          "answer": 0,
+          "explanation": "\"Bravely\" is an adverb of manner describing how he climbed the mountain."
+        },
+        {
+          "questionNo": 8,
+          "question": "I'll meet you _____ the library.",
+          "options": [
+            "quietly",
+            "inside",
+            "tomorrow"
+          ],
+          "answer": 1,
+          "explanation": "\"Inside\" is an adverb of place indicating where the meeting will occur."
+        },
+        {
+          "questionNo": 9,
+          "question": "The train _____ departs at 7 AM.",
+          "options": [
+            "upstairs",
+            "carefully",
+            "punctually"
+          ],
+          "answer": 2,
+          "explanation": "\"Punctually\" is an adverb of manner describing how the train departs."
+        },
+        {
+          "questionNo": 10,
+          "question": "She _____ goes for a morning jog.",
+          "options": [
+            "regularly",
+            "downstairs",
+            "eagerly"
+          ],
+          "answer": 0,
+          "explanation": "\"Regularly\" is an adverb of time indicating how often she goes for a jog."
+        },
+        {
+          "questionNo": 11,
+          "question": "In the sentence \"She _____ completed the project,\" which adverb of manner best fits the blank?",
+          "options": [
+            "tomorrow",
+            "successfully",
+            "upstairs",
+            "daily"
+          ],
+          "answer": 1,
+          "explanation": "\"Successfully\" describes how she completed the project."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which of the following is an adverb of place?",
+          "options": [
+            "annually",
+            "underneath",
+            "loudly",
+            "patiently"
+          ],
+          "answer": 1,
+          "explanation": "\"Underneath\" refers to a location or position."
+        },
+        {
+          "questionNo": 13,
+          "question": "In the sentence \"I _____ visit my grandparents,\" which adverb of time best fits the blank?",
+          "options": [
+            "gently",
+            "inside",
+            "regularly",
+            "quickly"
+          ],
+          "answer": 2,
+          "explanation": "\"Regularly\" indicates how often the person visits their grandparents."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of the following is an adverb of manner?",
+          "options": [
+            "seldom",
+            "underground",
+            "enthusiastically",
+            "yesterday"
+          ],
+          "answer": 2,
+          "explanation": "\"Enthusiastically\" describes how an action is done."
+        },
+        {
+          "questionNo": 15,
+          "question": "In the sentence \"I'll finish the project _____ I can,” the missing adverb is most likely one of _____.",
+          "options": [
+            "as soon as, the time",
+            "soon, the manner",
+            "anywhere, the place"
+          ],
+          "answer": 0,
+          "explanation": "\"As soon as\" indicates when the action will be done."
+        },
+        {
+          "questionNo": 16,
+          "question": "In the sentence \"She danced _____.\" The missing adverb is most likely one of _____.",
+          "options": [
+            "beautifully, the time",
+            "gracefully, the manner",
+            "quickly, the place"
+          ],
+          "answer": 1,
+          "explanation": "The adverb “gracefully” shows how she danced and is an adverb of manner."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following is an adverb of manner?",
+          "options": [
+            "yesterday",
+            "cautiously",
+            "everywhere"
+          ],
+          "answer": 1,
+          "explanation": "\"Cautiously\" describes how an action is done."
+        },
+        {
+          "questionNo": 18,
+          "question": "In the sentence \"The book is _____ the shelf,\" which adverb of place best fits the blank?",
+          "options": [
+            "rarely",
+            "on",
+            "elegantly",
+            "immediately"
+          ],
+          "answer": 1,
+          "explanation": "\"On\" indicates the location of the book relative to the shelf."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of the following is an adverb of time?",
+          "options": [
+            "softly",
+            "downstairs",
+            "occasionally",
+            "bravely"
+          ],
+          "answer": 2,
+          "explanation": "\"Occasionally\" indicates how often an action occurs."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which of the following is an adverb of place?",
+          "options": [
+            "quietly",
+            "nearby",
+            "always",
+            "hastily"
+          ],
+          "answer": 1,
+          "explanation": "\"Nearby\" refers to a location close to the speaker or subject."
+        }
+      ]
+    }
+  ]
+}
